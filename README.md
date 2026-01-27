@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-junior)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521988835047)
 [![Streamlit](https://img.shields.io/badge/App_Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://dashboarddesalariosareadedado.streamlit.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio_Web-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://baxinhodull.github.io/](https://carlos-henrique-junior.github.io))
+[![Portfolio](https://img.shields.io/badge/Portfolio_Web-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlos-henrique-junior.github.io))
 
 ---
 
