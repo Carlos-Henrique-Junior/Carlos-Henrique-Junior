@@ -1,333 +1,316 @@
 <!-- =========================================================
-     PORTFÓLIO – CARLOS HENRIQUE COSTA DA SILVA JUNIOR
-     Data Analyst & Python Developer
+     CARLOS HENRIQUE COSTA DA SILVA JUNIOR • GITHUB PROFILE README
+     Blue Python Theme • Portuguese Version (PT-BR)
 ========================================================= -->
+
+<!-- BANNER TOPO (AZUL PYTHON) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Carlos%20Henrique&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Data%20Analyst%20%7C%20Python%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:1e3a8a,50:3b82f6,100:60a5fa"
+  />
+</p>
+
+<!-- FRASE "ANDANDO" (SVG ANIMADO) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transformando+dados+brutos+em+insights+estrat%C3%A9gicos.;Desenvolvendo+solu%C3%A7%C3%B5es+de+automa%C3%A7%C3%A3o+com+Python.;Focado+em+performance,+ETL+e+visualiza%C3%A7%C3%A3o+de+dados."
+    alt="Texto animado"
+  />
+</p>
+
+<!-- BOTÕES TOPO -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-henrique-junior" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5521988835047" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:chjunior05@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://carlos-henrique-junior.github.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Carlos-Henrique-Junior" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- CONTADORES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Carlos-Henrique-Junior&label=Visualizações&color=3b82f6" />
+  <img src="https://img.shields.io/github/followers/Carlos-Henrique-Junior?label=Seguidores&color=1e3a8a" />
+  <img src="https://img.shields.io/github/stars/Carlos-Henrique-Junior?label=Estrelas&color=1e3a8a" />
+</p>
+
+<hr/>
+
+## 🧠 Sobre mim
+
+- **Atuação:** Analista de Dados Júnior / Desenvolvedor Python com foco em **automação** e **Business Intelligence**.
+- **Perfil:** Conecto **análise de dados** com **desenvolvimento de soluções automatizadas** para otimização de processos.
+- **Especialidades:** ETL, scripts de automação, dashboards gerenciais, monitoramento de infraestrutura e visualização de dados.
+- **Ferramentas:** Python (Pandas, NumPy), Power BI, Excel Avançado, SQL, Zabbix, Grafana, Shell Script e Docker.
+- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, SQLite - Experiência com SQL e NoSQL.
+- **Cloud & DevOps:** Estudos em AWS e Azure, Docker para containerização.
+- **IA & Machine Learning:** Pós-graduações em andamento em **Inteligência Artificial** e **Machine Learning**.
+- **Formação:** Bacharel em Ciência da Computação (2025) e Técnico em Informática (2018).
+- **Experiência:** Atuação em TI desde 2020, com foco crescente em dados e automação desde 2024.
+- **Idiomas:** Português (nativo), **Inglês** intermediário (em aprimoramento contínuo) e **Espanhol** básico.
+- **Além do código:** Praticante de Muay Thai e Academia, aplicando a mesma disciplina aos estudos e desenvolvimento profissional.
+- **Local:** Rio de Janeiro, Del Castilho — **remoto**, **híbrido** ou **presencial**.
+
+```python
+def carlos_henrique():
+    return {
+        "cargo": "Data Analyst Júnior | Python Developer",
+        "local": "Rio de Janeiro, RJ - Del Castilho",
+        "foco": [
+            "Python para análise de dados e automação",
+            "Power BI e Excel Avançado para BI",
+            "ETL e transformação de dados",
+            "Bancos de Dados: SQL (MySQL, PostgreSQL) e NoSQL (MongoDB)",
+            "Cloud Computing: AWS e Azure (estudos)",
+            "IA & Machine Learning (pós-graduações em andamento)",
+            "Monitoramento: Zabbix e Grafana",
+            "DevOps: Docker e Scripts Shell"
+        ],
+        "objetivo": "Transformar complexidade em clareza através de dados e código limpo."
+    }
+```
+
+<hr/>
+
+## 📊 Visão geral do GitHub
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Portf%C3%B3lio%20-%20Carlos%20Henrique&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&fontSize=42&desc=Data%20Analyst%20%7C%20Python%20Developer&descAlign=50&descAlignY=65&animation=twinkling&color=0:1e3a8a,50:3b82f6,100:60a5fa"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Carlos-Henrique-Junior&show_icons=true&theme=radical&hide_border=true&icon_color=3b82f6&title_color=3b82f6&text_color=ffffff&bg_color=0d1117"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Henrique-Junior&layout=compact&theme=radical&hide_border=true&title_color=3b82f6&text_color=ffffff&bg_color=0d1117"
+    alt="Linguagens mais usadas"
   />
 </p>
 
 <p align="center">
-  <a href="https://carlos-henrique-junior.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Acessar_Portfólio-3b82f6?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-henrique-junior" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Carlos-Henrique-Junior" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:chjunior05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Henrique-Junior&theme=radical&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6"
+    alt="GitHub Streak"
+  />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Versão-2.0-3b82f6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Licença-MIT-1e3a8a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Última%20Atualização-2026-60a5fa?style=flat-square" />
+<hr/>
+
+## 🧩 Stack tecnológica
+
+<div align="center">
+  
+### 💻 Linguagens
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js,html,css,bash" />
+
+### 📊 Dados & Análise
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+
+### 🚀 Frameworks & Ferramentas Python
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,linux,git,github" />
+
+### 🤖 IA & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
----
+### 📈 Business Intelligence & Produtividade
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</p>
 
-## 📌 Sobre o Projeto
+### 🛠️ Ferramentas Especializadas
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLPI-0066CC?style=for-the-badge&logo=glpi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-Portfólio profissional desenvolvido para apresentar minha trajetória como **Analista de Dados** e **Desenvolvedor Python**, com foco em **ETL, automação, dashboards em Power BI, APIs e visualização de dados**.
+</div>
 
-O site é totalmente responsivo, com suporte a **tema claro/escuro**, **internacionalização (PT/EN)** e animações suaves para uma experiência fluida em qualquer dispositivo.
+<hr/>
 
-🔗 **Acesse:** [carlos-henrique-junior.github.io](https://carlos-henrique-junior.github.io)
+## 📊 Distribuição de Expertise
 
----
+| Área de Atuação | Proficiência | Destaque Principal |
+|---|:---:|---|
+| **Python Development** | **90%** | Automação, Scripts, ETL, Backend (FastAPI, Django) |
+| **Análise de Dados** | **85%** | Pandas, NumPy, Tratamento e Limpeza de Dados |
+| **Business Intelligence** | **85%** | Power BI, Excel Avançado, Dashboards Gerenciais |
+| **Visualização de Dados** | **85%** | Power BI, Grafana, Dashboards Interativos |
+| **Banco de Dados (SQL/NoSQL)** | **80%** | MySQL, PostgreSQL, MongoDB - Queries e Modelagem |
+| **Monitoramento & Infraestrutura** | **80%** | Zabbix, Grafana, Administração de Sistemas |
+| **Suporte Técnico (N1/N2)** | **85%** | Atendimento corporativo, troubleshooting, redes |
+| **Cloud Computing** | **70%** | AWS, Azure - Estudos e Projetos Práticos |
+| **Shell Script & Automação** | **75%** | Bash, Automação de Tarefas, DevOps |
+| **IA & Machine Learning** | **70%** | Python, TensorFlow, Scikit-learn - Pós-graduações em andamento |
+| **Pacote Office** | **80%** | Excel Avançado, Power BI, Word, PowerPoint |
 
-## 🎯 Objetivos
+<hr/>
 
-- 📊 Apresentar de forma clara minha trajetória, habilidades técnicas e principais projetos de dados
-- 💼 Servir como cartão de visita digital para recrutadores, empresas e parceiros
-- 🔗 Centralizar links importantes (GitHub, LinkedIn, WhatsApp, e-mail e CV em PDF)
-- 🎨 Demonstrar domínio de front-end básico, responsividade, Dark Mode, i18n e boas práticas de UI/UX
-- 🚀 Servir como vitrine viva, atualizada conforme novos projetos e formações
+## 💼 Experiência Profissional
 
----
+### 🏢 Montreal Informática
+**Técnico de Suporte N2** • 03/2026 - Atual
 
-## 🧱 Stack do Portfólio
+- ✅ Atuo no atendimento de **suporte técnico nível 2**, resolvendo incidentes escalados com diagnóstico aprofundado
+- ✅ Realizo **troubleshooting avançado** de hardware, software, sistemas operacionais e redes corporativas
+- ✅ Apoio a infraestrutura de TI com foco em **resolução definitiva** e prevenção de recorrências
+- ✅ Documento procedimentos, soluções e boas práticas para a base de conhecimento da equipe
+- ✅ Atuo em conjunto com times N1 e N3, garantindo fluxo eficiente de chamados
+- ✅ Aplico conhecimentos em **automação** e **scripts** para otimização de tarefas repetitivas de suporte
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="48" /><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br/>
-      <sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="48" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="48" /><br/>
-      <sub><b>GitHub Pages</b></sub>
-    </td>
-  </tr>
-</table>
+### 🏛️ PGE-RJ – Procuradoria Geral do Estado do Rio de Janeiro
+**Estagiário de TI** • 03/2024 - 02/2026
 
-**Detalhes técnicos:**
+- ✅ Implementei, configurei e administrei o **Zabbix** para monitoramento de servidores e dispositivos de TI
+- ✅ Desenvolvi e customizei dashboards no **Grafana** para visualização em tempo real de métricas
+- ✅ Automatizei tarefas com **Bash**, **MySQL** e **Python**, otimizando processos e reduzindo erros
+- ✅ Construí e mantive painéis interativos no **Power BI** para análise estratégica
+- ✅ Gerenciei incidentes com **GLPI**, incluindo registro e automação de chamados
+- ✅ Desenvolvi scripts **Python** para extração, transformação e carga de dados (ETL)
+- ✅ Criei layouts em **HTML** e **CSS** para dashboards mais intuitivos
 
-- **HTML5** – Estrutura semântica (Home, Sobre, Experiência, Projetos, Skills, Certificações e Contato)
-- **Tailwind CSS (via CDN)** – Estilização, layout responsivo, glassmorphism, gradientes e animações
-- **JavaScript (Vanilla)** – Sem dependências de frameworks pesados
-  - Controle de tema (Dark/Light) com `localStorage`
-  - Menu mobile e rolagem suave entre seções
-  - Botão *back-to-top*
-  - i18n PT/EN via objeto `translations` e atributos `data-i18n`
-  - Renderização dinâmica de Experiência, Projetos, Skills e Certificações via arrays JS
-  - Integração com **ScrollReveal** para animações de entrada
-- **Font Awesome** – Ícones para navbar, seções e redes sociais
-- **Google Fonts (Inter)** – Tipografia principal
+### 🏥 CREB – Centro de Reumatologia e Ortopedia Botafogo
+**Técnico de Suporte Júnior** • 12/2021 - 12/2023
 
----
+- ✅ Prestei suporte técnico em TI, atuando com hardware, software e redes
+- ✅ Realizei manutenção de computadores, impressoras e cabeamento estruturado
+- ✅ Resolvi incidentes e prestei suporte aos sistemas **Tasy** e **GLPI**
+- ✅ Atendi presencialmente às clínicas do Rio de Janeiro e remotamente para São Paulo
+- ✅ Implementei melhorias em processos de suporte técnico
+- ✅ Documentei procedimentos e boas práticas de TI
+- ✅ Integrei novos equipamentos à infraestrutura
 
-## 🗂️ Seções do Portfólio
+### 🎓 Ciob – Centro de Integração Objetivo
+**Estagiário de TI - Área de Informática** • 01/2020 - 12/2020
 
-### 🧭 Header / Navbar
-Logo "CH", links de navegação (Sobre, Experiência, Projetos, Skills, Contato), botão de tema (claro/escuro), seletor de idioma PT/EN e menu mobile.
+- ✅ Realizei manutenção preventiva e corretiva de computadores
+- ✅ Ministrei cursos de capacitação em **Pacote Office** (Word, Excel, PowerPoint)
+- ✅ Configurei redes e cabeamento, assegurando conectividade estável
+- ✅ Treinei alunos de forma prática em ferramentas de escritório e recursos digitais
+- ✅ Atualizei softwares e sistemas operacionais Windows e Linux
 
-### 🏠 Hero (Home)
-- Saudação personalizada com nome
-- Badge **"Data Analyst & Python Developer"**
-- Resumo de atuação com Python, SQL, Power BI e automação
-- Métricas rápidas: anos de TI, projetos e certificados
-- Botões para ver projetos, baixar CV e acessar redes
-- Foto com moldura estilizada e badge **"Disponível para Oportunidades"**
+<hr/>
 
-### 👤 Sobre Mim (`#about`)
-Texto sobre a transição de infraestrutura/suporte para Análise de Dados, com ênfase em Python, SQL e Power BI aplicados a ETL, modelagem de dados e dashboards.
+## 🎓 Formação Acadêmica
 
-**Cards informativos:**
-- 🎓 Formação acadêmica
-- 📍 Localização
-- 📊 Proficiência: Python, SQL & BI, DevOps, Cloud & IA (com barras de progresso)
-
-### 💼 Trajetória Profissional (`#experience`)
-
-Timeline montada dinamicamente a partir de `experienceData`. Cada item inclui cargo (PT/EN), empresa, período, indicador "Atual/Present" e descrição das atividades.
-
-**Experiências atuais e anteriores:**
-
-| Período | Empresa | Cargo |
-|---|---|---|
-| 🟢 **03/2026 - Atual** | **Montreal Informática** | Técnico de Suporte N2 |
-| 03/2024 - 02/2026 | PGE-RJ | Estagiário de TI (Dados/BI) |
-| 12/2021 - 12/2023 | CREB | Técnico de Suporte Júnior |
-| 01/2020 - 12/2020 | Ciob | Estagiário de TI / Instrutor |
-
-### 🚀 Projetos em Destaque (`#projects`)
-
-Cards gerados a partir de `projectsData`, com ícone, título, descrição (PT/EN), tags da stack e links para **GitHub** e **deploy** (quando disponível).
-
-**Exemplos cadastrados:**
-- 📊 **Dashboard de Salários – Data Market** (Python + Pandas + Power BI + Streamlit)
-- 🔌 **API Backend – Gestão de Dados** (FastAPI + PostgreSQL + Docker)
-- 🧮 **Calculadora de IMC com Python** (lógica, validação e interação)
-
-### 🛠️ Tech Stack (`#skills`)
-
-Categorias definidas em `skillsData`:
-
-- 📊 Análise de Dados
-- 🗄️ Bancos de Dados (SQL & NoSQL)
-- ⚙️ Infra & DevOps
-- 💻 Desenvolvimento
-- ☁️ Cloud & IA
-- 📈 Business Intelligence
-
-Cada card mostra ícone, nome da categoria e tecnologias com **percentual de domínio** e barra animada.
-
-### 📜 Certificações & Cursos (`#certifications`)
-
-Conteúdo carregado a partir de `certsData`, agrupado em blocos:
-
-- 📊 Análise de Dados & BI
-- ⚙️ Infraestrutura & DevOps
-- 💻 Desenvolvimento & Programação
-- 🎓 Formação Acadêmica
-
-**Formação acadêmica em destaque:**
-
-| Curso | Instituição | Status |
+| Curso | Instituição | Status / Conclusão |
 |---|---|:---:|
-| 🤖 Pós-Graduação em **Inteligência Artificial** | Faculdade Líbano | Em andamento (2026) |
-| 🧠 Pós-Graduação em **Machine Learning** | Faculdade Líbano | Em andamento (2026) |
-| 🎓 Bacharel em **Ciência da Computação** | UNESA - Estácio | Concluído (2025) |
-| 💻 Técnico em **Informática** | Ciob | Concluído (2018) |
-
-Cada grupo é exibido em componentes `<details>` para visualização expandível.
-
-### 📬 Contato (`#contact`)
-- Título **"Vamos trabalhar juntos?"**
-- Texto reforçando disponibilidade para gerar valor com dados
-- Botões: enviar e-mail, abrir WhatsApp, acessar LinkedIn
-- Cards com e-mail, telefone e localização (Rio de Janeiro, RJ)
-
-### 🔻 Footer
-Logo "CH", nome e função, ícones de redes sociais e ano atualizado dinamicamente via JS.
-
----
-
-## 🌐 Internacionalização (PT/EN)
-
-Sistema próprio de i18n implementado em Vanilla JS:
-
-- ✅ Traduções centralizadas no objeto `translations`
-- ✅ Elementos usam `data-i18n="chave"` para identificação
-- ✅ Função percorre o DOM e substitui conteúdo conforme idioma
-- ✅ Idioma salvo em `localStorage` (persistência entre visitas)
-- ✅ Botões **PT** e **EN** permitem alternância em tempo real
-
-```javascript
-// Exemplo de uso
-const translations = {
-  pt: { hero_desc: "Analista de Dados & Desenvolvedor Python" },
-  en: { hero_desc: "Data Analyst & Python Developer" }
-};
-```
-
----
-
-## 🌓 Tema Claro / Escuro
-
-- Tailwind configurado com `darkMode: 'class'`
-- Tema aplicado adicionando/removendo classe `dark` na tag `<html>`
-- Preferência armazenada em `localStorage.theme`
-- Botão na navbar alterna entre ícones de lua 🌙 / sol ☀️
-
----
-
-## ⚙️ Funcionalidades de UI/UX
-
-| Recurso | Descrição |
-|---|---|
-| 📱 **Menu Mobile** | Botão hambúrguer para telas menores |
-| 🖱️ **Scroll Suave** | Navegação entre seções com rolagem animada |
-| ⬆️ **Back-to-Top** | Botão flutuante que aparece após scroll |
-| ✨ **ScrollReveal** | Animações de entrada em títulos, cards e imagens |
-| 🎨 **Animações CSS** | Gradiente animado, flutuação da imagem, pulsar de fundos |
-| 📐 **Responsividade** | Layout adaptado para mobile, tablet e desktop |
-| 🔍 **SEO Friendly** | Tags semânticas e meta tags otimizadas |
-
----
-
-## 📁 Estrutura de Arquivos
-
-```text
-portfolio/
-├── index.html                # Página principal
-├── img/
-│   └── foto.jpg              # Foto de perfil (Hero)
-├── assets/
-│   ├── CARLOS_HENRIQUE.pdf   # Currículo para download
-│   └── favicon.ico
-├── README.md                 # Este arquivo
-└── LICENSE
-```
-
----
-
-## 🚀 Como Executar Localmente
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/Carlos-Henrique-Junior/carlos-henrique-junior.github.io.git
-
-# 2. Acesse a pasta
-cd carlos-henrique-junior.github.io
-
-# 3. Abra o index.html no navegador
-# Ou use um servidor local simples:
-python -m http.server 8000
-
-# 4. Acesse http://localhost:8000
-```
-
-> 💡 **Dica:** Como o projeto usa Tailwind via CDN e JavaScript puro, **não há necessidade de `npm install` ou build**.
-
----
-
-## 👨‍💻 Sobre o Autor
+| 🤖 **Pós-Graduação em Inteligência Artificial** | Faculdade Líbano | **Em andamento** (Conclusão: 2026) |
+| 🧠 **Pós-Graduação em Machine Learning** | Faculdade Líbano | **Em andamento** (Conclusão: 2026) |
+| 🎓 **Bacharel em Ciência da Computação** | UNESA - Faculdade Estácio de Sá | Concluído (2025) |
+| 💻 **Curso Técnico de Informática** | Ciob – Centro de Integração Objetivo | Concluído (2018) |
 
 <p align="center">
-  <img src="https://github.com/Carlos-Henrique-Junior.png" width="120" style="border-radius:50%" />
+  <img src="https://img.shields.io/badge/Pós--Graduação-Inteligência%20Artificial-3b82f6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pós--Graduação-Machine%20Learning-1e3a8a?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-**Carlos Henrique Costa da Silva Junior**
-*Data Analyst Júnior | Python Developer*
+<hr/>
 
-📍 Rio de Janeiro, RJ – Brasil
-💼 Atualmente: **Técnico de Suporte N2** na Montreal Informática
-🎓 Pós-graduando em **Inteligência Artificial** e **Machine Learning** (Faculdade Líbano)
-🥋 Praticante de Muay Thai – disciplina dentro e fora do código
+## ✨ Meus Diferenciais
 
-**Idiomas:** Português (nativo) • Inglês intermediário (em aprimoramento contínuo) • Espanhol básico
+| Característica | Aplicação Prática |
+|---|---|
+| **Foco em Python** | Especialista na linguagem, evitando distrações com stacks que não domino |
+| **Dados para Decisão** | Transformo dados complexos em insights claros e acionáveis |
+| **Perfil Analítico** | Graduado em Ciência da Computação, com base sólida em lógica e algoritmos |
+| **Especialização em IA/ML** | Duas pós-graduações em andamento (IA e Machine Learning) |
+| **Experiência Prática** | Atuação em ambientes corporativos desde 2020, com foco em automação e dados |
+| **Disciplina** | A mesma constância do Muay Thai aplicada aos estudos e entregas de código |
+| **Adaptação Rápida** | Habilidade de aprender novas bibliotecas e ferramentas conforme necessidade |
 
----
+<hr/>
+
+## 📈 Atividade & Gráficos
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos-Henrique-Junior&bg_color=0d1117&color=C9D1D9&line=3b82f6&point=60a5fa&area=true&hide_border=true"
+    alt="Gráfico de atividade"
+  />
+</p>
+
+<hr/>
 
 ## 🌍 Aberto a Oportunidades
 
-```yaml
+```
 Cargos de Interesse:
-  - Analista de Dados Júnior / Trainee
-  - Desenvolvedor Python Júnior
-  - Engenheiro de Dados Júnior
-  - Analista de Business Intelligence
-  - Analista de IA / Machine Learning Júnior
+- Analista de Dados Júnior / Trainee
+- Desenvolvedor Python Júnior
+- Engenheiro de Dados Júnior
+- Analista de Business Intelligence
+- Analista de IA / Machine Learning Júnior
 
-Modelo: [Remoto, Híbrido, Presencial]
-Disponibilidade: Imediata
-Local: Rio de Janeiro, RJ – Brasil
+Modelo:
+- Remoto
+- Híbrido
+- Presencial
+
+Disponibilidade:
+- Imediata
+
+Local:
+Rio de Janeiro, RJ — Brasil
 ```
 
----
+<hr/>
 
-## 📬 Contato
+## 💬 Vamos nos Conectar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-henrique-junior" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  Estou sempre disposto a discutir sobre dados, automação e tecnologia.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-henrique-junior" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/5521988835047" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://github.com/Carlos-Henrique-Junior" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:chjunior05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://carlos-henrique-junior.github.io" target="_blank">
+  <a href="https://carlos-henrique-junior.github.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+  <a href="https://wa.me/5521988835047" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  📧 <b>chjunior05@gmail.com</b> &nbsp;•&nbsp; 📱 <b>(21) 98883-5047</b>
+  📧 <b>Email:</b> <a href="mailto:chjunior05@gmail.com">chjunior05@gmail.com</a><br>
+  📱 <b>Telefone:</b> (21) 98883-5047<br>
+  🌍 <b>Disponível para trabalho remoto, híbrido ou presencial</b>
 </p>
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
+<!-- BANNER RODAPÉ (AZUL PYTHON) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=100&text=Feito%20com%20💙%20%20%20&fontColor=FFFFFF&fontSize=24&color=0:1e3a8a,50:3b82f6,100:60a5fa"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Transforme%20Dados%20em%20Resultados&fontColor=FFFFFF&fontSize=34&color=0:1e3a8a,50:3b82f6,100:60a5fa"
   />
-</p>
-
-<p align="center">
-  <sub>⭐ Se este projeto te ajudou ou inspirou, considere deixar uma estrela!</sub>
 </p>
