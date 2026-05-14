@@ -58,7 +58,7 @@
 - **Formação:** Bacharel em Ciência da Computação (2025) e Técnico em Informática (2018).
 - **Experiência:** Atuação em TI desde 2020, com foco crescente em dados e automação desde 2024.
 - **Idiomas:** Português (nativo), **Inglês** intermediário (em aprimoramento contínuo) e **Espanhol** básico.
-- **Além do código:** Praticante de Muay Thai, aplicando a mesma disciplina aos estudos e desenvolvimento profissional.
+- **Além do código:** Praticante de Muay Thai e academia , aplicando a mesma disciplina aos estudos e desenvolvimento profissional.
 - **Local:** Rio de Janeiro, Del Castilho — **remoto**, **híbrido** ou **presencial**.
 
 ```python
