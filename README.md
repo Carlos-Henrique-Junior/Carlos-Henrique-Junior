@@ -57,7 +57,7 @@
 - **IA & Machine Learning:** Pós-graduações em andamento em **Inteligência Artificial** e **Machine Learning**.
 - **Formação:** Bacharel em Ciência da Computação (2025) e Técnico em Informática (2018).
 - **Experiência:** Atuação em TI desde 2020, com foco crescente em dados e automação desde 2024.
-- **Idiomas:** Português (nativo), **Inglês** e **Espanhol** em evolução constante.
+- **Idiomas:** Português (nativo), **Inglês** intermediário (em aprimoramento contínuo) e **Espanhol** básico.
 - **Além do código:** Praticante de Muay Thai, aplicando a mesma disciplina aos estudos e desenvolvimento profissional.
 - **Local:** Rio de Janeiro, Del Castilho — **remoto**, **híbrido** ou **presencial**.
 
@@ -184,7 +184,7 @@ def carlos_henrique():
 - ✅ Aplico conhecimentos em **automação** e **scripts** para otimização de tarefas repetitivas de suporte
 
 ### 🏛️ PGE-RJ – Procuradoria Geral do Estado do Rio de Janeiro
-**Estagiário de TI** • 03/2024 - 03/2026
+**Estagiário de TI** • 03/2024 - 02/2026
 
 - ✅ Implementei, configurei e administrei o **Zabbix** para monitoramento de servidores e dispositivos de TI
 - ✅ Desenvolvi e customizei dashboards no **Grafana** para visualização em tempo real de métricas
