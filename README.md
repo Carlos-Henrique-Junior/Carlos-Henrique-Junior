@@ -54,7 +54,7 @@
 - **Ferramentas:** Python (Pandas, NumPy), Power BI, Excel Avançado, SQL, Zabbix, Grafana, Shell Script e Docker.
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, SQLite - Experiência com SQL e NoSQL.
 - **Cloud & DevOps:** Estudos em AWS e Azure, Docker para containerização.
-- **IA & Machine Learning:** Estudos em andamento com TensorFlow e Scikit-learn.
+- **IA & Machine Learning:** Pós-graduações em andamento em **Inteligência Artificial** e **Machine Learning**.
 - **Formação:** Bacharel em Ciência da Computação (2025) e Técnico em Informática (2018).
 - **Experiência:** Atuação em TI desde 2020, com foco crescente em dados e automação desde 2024.
 - **Idiomas:** Português (nativo), **Inglês** e **Espanhol** em evolução constante.
@@ -72,7 +72,7 @@ def carlos_henrique():
             "ETL e transformação de dados",
             "Bancos de Dados: SQL (MySQL, PostgreSQL) e NoSQL (MongoDB)",
             "Cloud Computing: AWS e Azure (estudos)",
-            "IA & Machine Learning (estudos em andamento)",
+            "IA & Machine Learning (pós-graduações em andamento)",
             "Monitoramento: Zabbix e Grafana",
             "DevOps: Docker e Scripts Shell"
         ],
@@ -163,25 +163,36 @@ def carlos_henrique():
 | **Visualização de Dados** | **85%** | Power BI, Grafana, Dashboards Interativos |
 | **Banco de Dados (SQL/NoSQL)** | **80%** | MySQL, PostgreSQL, MongoDB - Queries e Modelagem |
 | **Monitoramento & Infraestrutura** | **80%** | Zabbix, Grafana, Administração de Sistemas |
+| **Suporte Técnico (N1/N2)** | **85%** | Atendimento corporativo, troubleshooting, redes |
 | **Cloud Computing** | **70%** | AWS, Azure - Estudos e Projetos Práticos |
 | **Shell Script & Automação** | **75%** | Bash, Automação de Tarefas, DevOps |
-| **IA & Machine Learning** | **65%** | Python, TensorFlow, Scikit-learn - Estudos em Andamento |
+| **IA & Machine Learning** | **70%** | Python, TensorFlow, Scikit-learn - Pós-graduações em andamento |
 | **Pacote Office** | **80%** | Excel Avançado, Power BI, Word, PowerPoint |
 
 <hr/>
 
 ## 💼 Experiência Profissional
 
-### 🏛️ PGE-RJ – Procuradoria Geral do Estado do Rio de Janeiro
-**Estagiário de TI** • 03/2024 - Atual
+### 🏢 Montreal Informática
+**Técnico de Suporte N2** • 03/2026 - Atual
 
-- ✅ Implemento, configuro e administro o **Zabbix** para monitoramento de servidores e dispositivos de TI
-- ✅ Desenvolvo e customizo dashboards no **Grafana** para visualização em tempo real de métricas
-- ✅ Automatizo tarefas com **Bash**, **MySQL** e **Python**, otimizando processos e reduzindo erros
-- ✅ Construo e mantenho painéis interativos no **Power BI** para análise estratégica
-- ✅ Gerencio incidentes com **GLPI**, incluindo registro e automação de chamados
-- ✅ Desenvolvo scripts **Python** para extração, transformação e carga de dados (ETL)
-- ✅ Crio layouts em **HTML** e **CSS** para dashboards mais intuitivos
+- ✅ Atuo no atendimento de **suporte técnico nível 2**, resolvendo incidentes escalados com diagnóstico aprofundado
+- ✅ Realizo **troubleshooting avançado** de hardware, software, sistemas operacionais e redes corporativas
+- ✅ Apoio a infraestrutura de TI com foco em **resolução definitiva** e prevenção de recorrências
+- ✅ Documento procedimentos, soluções e boas práticas para a base de conhecimento da equipe
+- ✅ Atuo em conjunto com times N1 e N3, garantindo fluxo eficiente de chamados
+- ✅ Aplico conhecimentos em **automação** e **scripts** para otimização de tarefas repetitivas de suporte
+
+### 🏛️ PGE-RJ – Procuradoria Geral do Estado do Rio de Janeiro
+**Estagiário de TI** • 03/2024 - 03/2026
+
+- ✅ Implementei, configurei e administrei o **Zabbix** para monitoramento de servidores e dispositivos de TI
+- ✅ Desenvolvi e customizei dashboards no **Grafana** para visualização em tempo real de métricas
+- ✅ Automatizei tarefas com **Bash**, **MySQL** e **Python**, otimizando processos e reduzindo erros
+- ✅ Construí e mantive painéis interativos no **Power BI** para análise estratégica
+- ✅ Gerenciei incidentes com **GLPI**, incluindo registro e automação de chamados
+- ✅ Desenvolvi scripts **Python** para extração, transformação e carga de dados (ETL)
+- ✅ Criei layouts em **HTML** e **CSS** para dashboards mais intuitivos
 
 ### 🏥 CREB – Centro de Reumatologia e Ortopedia Botafogo
 **Técnico de Suporte Júnior** • 12/2021 - 12/2023
@@ -207,10 +218,17 @@ def carlos_henrique():
 
 ## 🎓 Formação Acadêmica
 
-| Curso | Instituição | Conclusão |
+| Curso | Instituição | Status / Conclusão |
 |---|---|:---:|
-| **Bacharel em Ciência da Computação** | UNESA - Faculdade Estácio de Sá | 2025 |
-| **Curso Técnico de Informática** | Ciob – Centro de Integração Objetivo | 2018 |
+| 🤖 **Pós-Graduação em Inteligência Artificial** | Faculdade Líbano | **Em andamento** (Conclusão: 2026) |
+| 🧠 **Pós-Graduação em Machine Learning** | Faculdade Líbano | **Em andamento** (Conclusão: 2026) |
+| 🎓 **Bacharel em Ciência da Computação** | UNESA - Faculdade Estácio de Sá | Concluído (2025) |
+| 💻 **Curso Técnico de Informática** | Ciob – Centro de Integração Objetivo | Concluído (2018) |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pós--Graduação-Inteligência%20Artificial-3b82f6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pós--Graduação-Machine%20Learning-1e3a8a?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 <hr/>
 
@@ -221,6 +239,7 @@ def carlos_henrique():
 | **Foco em Python** | Especialista na linguagem, evitando distrações com stacks que não domino |
 | **Dados para Decisão** | Transformo dados complexos em insights claros e acionáveis |
 | **Perfil Analítico** | Graduado em Ciência da Computação, com base sólida em lógica e algoritmos |
+| **Especialização em IA/ML** | Duas pós-graduações em andamento (IA e Machine Learning) |
 | **Experiência Prática** | Atuação em ambientes corporativos desde 2020, com foco em automação e dados |
 | **Disciplina** | A mesma constância do Muay Thai aplicada aos estudos e entregas de código |
 | **Adaptação Rápida** | Habilidade de aprender novas bibliotecas e ferramentas conforme necessidade |
@@ -246,6 +265,7 @@ Cargos de Interesse:
 - Desenvolvedor Python Júnior
 - Engenheiro de Dados Júnior
 - Analista de Business Intelligence
+- Analista de IA / Machine Learning Júnior
 
 Modelo:
 - Remoto
