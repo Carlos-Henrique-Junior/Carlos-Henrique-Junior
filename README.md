@@ -176,43 +176,56 @@ def carlos_henrique():
 ### 🏢 Montreal Informática
 **Técnico de Suporte N2** • 03/2026 - Atual
 
-- ✅ Atuo no atendimento de **suporte técnico nível 2**, resolvendo incidentes escalados com diagnóstico aprofundado
-- ✅ Realizo **troubleshooting avançado** de hardware, software, sistemas operacionais e redes corporativas
-- ✅ Apoio a infraestrutura de TI com foco em **resolução definitiva** e prevenção de recorrências
-- ✅ Documento procedimentos, soluções e boas práticas para a base de conhecimento da equipe
-- ✅ Atuo em conjunto com times N1 e N3, garantindo fluxo eficiente de chamados
-- ✅ Aplico conhecimentos em **automação** e **scripts** para otimização de tarefas repetitivas de suporte
+- ✅ Atuo no suporte e sustentação de sistemas corporativos, garantindo a continuidade operacional dos serviços de TI.  
+- ✅ Realizo análise e resolução de incidentes, identificando causas raiz e propondo melhorias para redução de recorrências.  
+- ✅ Acompanho demandas e indicadores operacionais por meio de ferramentas de gestão de chamados, contribuindo para o cumprimento de SLAs e qualidade dos serviços prestados.  
+- ✅ Elaboro e mantenho documentação técnica e procedimentos operacionais, promovendo padronização e compartilhamento de conhecimento.  
+- ✅ Apoio a implementação de melhorias em processos internos, buscando ganhos de eficiência e otimização das rotinas da área.  
+- ✅ Atuo em conjunto com diferentes equipes para diagnóstico de problemas, levantamento de requisitos e suporte às operações de negócio.  
+- ✅ Utilizo abordagem analítica para investigação de incidentes, interpretação de informações e tomada de decisão baseada em evidências.  
+- ✅ Contribuo para a melhoria contínua dos serviços por meio da análise de demandas recorrentes e identificação de oportunidades de automação.
 
 ### 🏛️ PGE-RJ – Procuradoria Geral do Estado do Rio de Janeiro
 **Estagiário de TI** • 03/2024 - 02/2026
 
-- ✅ Implementei, configurei e administrei o **Zabbix** para monitoramento de servidores e dispositivos de TI
-- ✅ Desenvolvi e customizei dashboards no **Grafana** para visualização em tempo real de métricas
-- ✅ Automatizei tarefas com **Bash**, **MySQL** e **Python**, otimizando processos e reduzindo erros
-- ✅ Construí e mantive painéis interativos no **Power BI** para análise estratégica
-- ✅ Gerenciei incidentes com **GLPI**, incluindo registro e automação de chamados
-- ✅ Desenvolvi scripts **Python** para extração, transformação e carga de dados (ETL)
-- ✅ Criei layouts em **HTML** e **CSS** para dashboards mais intuitivos
+- ✅ Implementei o FastAPI Radar, desenvolvendo uma API em Python com FastAPI para centralização e exposição de métricas de monitoramento, permitindo integração entre sistemas, consulta estruturada de dados e suporte à construção de dashboards e automações.
+- ✅ Construí e mantive dashboards no Power BI, realizando processos de extração, transformação e modelagem de dados.
+- ✅ Automatizei rotinas com Bash, MySQL e Python, reduzindo tarefas manuais e aumentando a eficiência operacional.
+- ✅ Implementei, configurei e administrei o Zabbix para monitoramento de servidores, redes e dispositivos de TI.
+- ✅ Realizei o monitoramento contínuo da infraestrutura, garantindo alta disponibilidade e confiabilidade dos ambientes.
+- ✅ Gerenciei incidentes com GLPI, estruturando registro, acompanhamento e automação de chamados.
+- ✅ Desenvolvi e customizei dashboards no Grafana para visualização em tempo real de métricas e indicadores operacionais.
+- ✅ Integrei o Grafana a diferentes fontes de dados para criação de painéis personalizados.
+- ✅ Desenvolvi layouts em HTML e CSS para dashboards mais intuitivos e funcionais.
+- ✅ Apoiei a equipe na resolução de chamados e na evolução de projetos de TI.
 
 ### 🏥 CREB – Centro de Reumatologia e Ortopedia Botafogo
 **Técnico de Suporte Júnior** • 12/2021 - 12/2023
 
-- ✅ Prestei suporte técnico em TI, atuando com hardware, software e redes
-- ✅ Realizei manutenção de computadores, impressoras e cabeamento estruturado
-- ✅ Resolvi incidentes e prestei suporte aos sistemas **Tasy** e **GLPI**
-- ✅ Atendi presencialmente às clínicas do Rio de Janeiro e remotamente para São Paulo
-- ✅ Implementei melhorias em processos de suporte técnico
-- ✅ Documentei procedimentos e boas práticas de TI
-- ✅ Integrei novos equipamentos à infraestrutura
+- ✅ Atuei na sustentação de sistemas corporativos e ambientes tecnológicos, garantindo a disponibilidade e confiabilidade dos recursos utilizados pelas áreas de negócio.  
+- ✅ Realizei análise e resolução de incidentes em sistemas e aplicações, contribuindo para a continuidade operacional e melhoria da experiência dos usuários.  
+- ✅ Trabalhei com os sistemas Tasy e GLPI, apoiando a gestão de informações, registros operacionais e acompanhamento de demandas internas.  
+- ✅ Prestei suporte às unidades do Rio de Janeiro e São Paulo, atuando na identificação e solução de problemas com foco na eficiência operacional.  
+- ✅ Contribuí para a otimização de processos internos por meio da análise de demandas recorrentes e implementação de melhorias operacionais.  
+- ✅ Apoiei iniciativas de padronização de processos e procedimentos, promovendo maior qualidade, organização e consistência das informações.  
+- ✅ Elaborei e mantive documentação técnica e fluxos operacionais, facilitando a disseminação do conhecimento e a rastreabilidade dos processos.  
+- ✅ Participei da integração e configuração de novos recursos tecnológicos, garantindo aderência aos padrões da organização e suporte às operações.  
+- ✅ Colaborei com diferentes áreas da empresa para identificação de necessidades, resolução de problemas e melhoria contínua dos serviços prestados.  
+- ✅ Desenvolvi forte capacidade analítica na interpretação de incidentes, identificação de padrões e apoio à tomada de decisão operacional baseada em evidências.
 
 ### 🎓 Ciob – Centro de Integração Objetivo
 **Estagiário de TI - Área de Informática** • 01/2020 - 12/2020
 
-- ✅ Realizei manutenção preventiva e corretiva de computadores
-- ✅ Ministrei cursos de capacitação em **Pacote Office** (Word, Excel, PowerPoint)
-- ✅ Configurei redes e cabeamento, assegurando conectividade estável
-- ✅ Treinei alunos de forma prática em ferramentas de escritório e recursos digitais
-- ✅ Atualizei softwares e sistemas operacionais Windows e Linux
+- ✅ Atuei como monitor e apoio educacional em disciplinas de tecnologia, auxiliando alunos na compreensão de conceitos de Banco de Dados, SQL, Python e Informática.  
+- ✅ Apoiei a condução de aulas práticas e teóricas, esclarecendo dúvidas e contribuindo para o desenvolvimento técnico dos estudantes.  
+- ✅ Ministrei treinamentos em ferramentas do Pacote Office, com ênfase em Excel, promovendo a utilização de recursos para organização, análise e manipulação de informações.  
+- ✅ Auxiliei estudantes na construção de raciocínio lógico, resolução de problemas e aplicação prática de conceitos relacionados à tecnologia e dados.  
+- ✅ Colaborei com atividades relacionadas a Banco de Dados Relacionais, consultas SQL e fundamentos de programação em Python.  
+- ✅ Desenvolvi materiais de apoio e participei da orientação de alunos em atividades práticas voltadas para tecnologia da informação.  
+- ✅ Realizei suporte e manutenção de ambientes computacionais, garantindo a disponibilidade dos recursos utilizados em laboratórios e salas de aula.  
+- ✅ Apoiei a instalação, atualização e configuração de sistemas operacionais Windows e Linux, assegurando o funcionamento adequado dos ambientes tecnológicos.  
+- ✅ Contribuí para a capacitação digital de alunos de diferentes níveis de ensino, estimulando o uso de ferramentas tecnológicas e o desenvolvimento de competências analíticas.  
+- ✅ Atuei como facilitador no processo de aprendizagem, transformando conteúdos técnicos em explicações acessíveis e orientadas à resolução de problemas.
 
 <hr/>
 
