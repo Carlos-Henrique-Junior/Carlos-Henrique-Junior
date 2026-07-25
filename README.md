@@ -174,7 +174,7 @@ def carlos_henrique():
 ## 💼 Experiência Profissional
 
 ### 🏢 Montreal Informática
-**Técnico de Suporte N2** • 03/2026 - Atual
+**Técnico de Suporte N2** • 03/2026 - 07/2026
 
 - ✅ Atuo no suporte e sustentação de sistemas corporativos, garantindo a continuidade operacional dos serviços de TI.  
 - ✅ Realizo análise e resolução de incidentes, identificando causas raiz e propondo melhorias para redução de recorrências.  
@@ -186,7 +186,7 @@ def carlos_henrique():
 - ✅ Contribuo para a melhoria contínua dos serviços por meio da análise de demandas recorrentes e identificação de oportunidades de automação.
 
 ### 🏛️ PGE-RJ – Procuradoria Geral do Estado do Rio de Janeiro
-**Estagiário de TI** • 03/2024 - 02/2026
+**Estagiário de TI** • 03/2024 - 03/2026
 
 - ✅ Implementei o FastAPI Radar, desenvolvendo uma API em Python com FastAPI para centralização e exposição de métricas de monitoramento, permitindo integração entre sistemas, consulta estruturada de dados e suporte à construção de dashboards e automações.
 - ✅ Construí e mantive dashboards no Power BI, realizando processos de extração, transformação e modelagem de dados.
